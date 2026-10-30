@@ -1,0 +1,57 @@
+{
+  "name": "meta-dev-skills",
+  "version": "0.1.0",
+  "description": "AI-optimized agent skills for building on Meta's AI developer stack: Meta Model API models, Meta open-weight models, the Muse Code agent, and Ray-Ban Meta / Wearables DAT apps.",
+  "license": "MIT",
+  "author": "Zoth / NullAI",
+  "skills": [
+    {
+      "slug": "meta-model-api-quickstart",
+      "title": "Meta Model API quickstart",
+      "description": "Use when making your first Meta Model API call.",
+      "tags": ["meta", "model-api", "quickstart", "credits", "auth"]
+    },
+    {
+      "slug": "muse-spark-multimodal-agents",
+      "title": "Muse Spark multimodal agents",
+      "description": "Use when building multimodal agents on Muse Spark.",
+      "tags": ["meta", "muse-spark", "agents", "multimodal"]
+    },
+    {
+      "slug": "sam3-segmentation",
+      "title": "SAM 3.1 segmentation",
+      "description": "Use when adding SAM 3.1 segmentation to an app.",
+      "tags": ["meta", "sam-3.1", "segmentation", "vision"]
+    },
+    {
+      "slug": "muse-image-and-wonder",
+      "title": "Muse Image and Muse Wonder",
+      "description": "Use when generating images with Muse Image or Wonder.",
+      "tags": ["meta", "muse-image", "muse-wonder", "image-generation"]
+    },
+    {
+      "slug": "muse-voice-transcribe",
+      "title": "Muse Voice Transcribe",
+      "description": "Use when transcribing speech with Muse Voice Transcribe.",
+      "tags": ["meta", "muse-voice-transcribe", "speech-to-text", "audio"]
+    },
+    {
+      "slug": "muse-code-agent",
+      "title": "Muse Code agent",
+      "description": "Use when delegating coding work to Muse Code.",
+      "tags": ["meta", "muse-code", "coding-agent", "recipes"]
+    },
+    {
+      "slug": "meta-open-weight-models",
+      "title": "Meta open-weight models",
+      "description": "Use when running Muse open-weight models yourself.",
+      "tags": ["meta", "open-weights", "muse-glimmer", "muse-spark-open", "baseten", "modal", "fireworks"]
+    },
+    {
+      "slug": "rayban-meta-wearables-dat",
+      "title": "Ray-Ban Meta / Wearables DAT",
+      "description": "Use when building apps for Ray-Ban Meta glasses.",
+      "tags": ["meta", "ray-ban-meta", "wearables", "dat", "glasses", "camera", "audio"]
+    }
+  ]
+}
